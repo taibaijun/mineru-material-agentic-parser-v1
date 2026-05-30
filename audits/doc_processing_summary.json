@@ -1,0 +1,1271 @@
+{
+  "documents": [
+    {
+      "doc_id": "1",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 9,
+      "final_records": 0
+    },
+    {
+      "doc_id": "2",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 0
+    },
+    {
+      "doc_id": "3",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 5,
+      "final_records": 5
+    },
+    {
+      "doc_id": "4",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 25,
+      "final_records": 4
+    },
+    {
+      "doc_id": "5",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 25,
+      "final_records": 10
+    },
+    {
+      "doc_id": "6",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 0
+    },
+    {
+      "doc_id": "7",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 0
+    },
+    {
+      "doc_id": "8",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 29,
+      "final_records": 20
+    },
+    {
+      "doc_id": "9",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "11",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 17,
+      "final_records": 0
+    },
+    {
+      "doc_id": "12",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 6
+    },
+    {
+      "doc_id": "13",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 5
+    },
+    {
+      "doc_id": "14",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 14,
+      "final_records": 0
+    },
+    {
+      "doc_id": "15",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "16",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "17",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 10,
+      "final_records": 0
+    },
+    {
+      "doc_id": "19",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 0
+    },
+    {
+      "doc_id": "20",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 6
+    },
+    {
+      "doc_id": "21",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "22",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 2,
+      "final_records": 2
+    },
+    {
+      "doc_id": "23",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 0
+    },
+    {
+      "doc_id": "25",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "26",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "27",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 9,
+      "final_records": 9
+    },
+    {
+      "doc_id": "28",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "29",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 0
+    },
+    {
+      "doc_id": "30",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 7
+    },
+    {
+      "doc_id": "31",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 10,
+      "final_records": 0
+    },
+    {
+      "doc_id": "32",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 4
+    },
+    {
+      "doc_id": "33",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "34",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 6
+    },
+    {
+      "doc_id": "35",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 18,
+      "final_records": 0
+    },
+    {
+      "doc_id": "37",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 10,
+      "final_records": 10
+    },
+    {
+      "doc_id": "38",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "39",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 2
+    },
+    {
+      "doc_id": "40",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "41",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "42",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 0
+    },
+    {
+      "doc_id": "43",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "45",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 23,
+      "final_records": 18
+    },
+    {
+      "doc_id": "47",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 9,
+      "final_records": 0
+    },
+    {
+      "doc_id": "48",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 2
+    },
+    {
+      "doc_id": "49",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 12
+    },
+    {
+      "doc_id": "50",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 0
+    },
+    {
+      "doc_id": "51",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "52",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 14,
+      "final_records": 12
+    },
+    {
+      "doc_id": "53",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 4
+    },
+    {
+      "doc_id": "54",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 0
+    },
+    {
+      "doc_id": "55",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "56",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 15,
+      "final_records": 14
+    },
+    {
+      "doc_id": "57",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 0
+    },
+    {
+      "doc_id": "59",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 0
+    },
+    {
+      "doc_id": "60",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 0
+    },
+    {
+      "doc_id": "61",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 13,
+      "final_records": 0
+    },
+    {
+      "doc_id": "62",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 0
+    },
+    {
+      "doc_id": "63",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 3
+    },
+    {
+      "doc_id": "65",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 25,
+      "final_records": 24
+    },
+    {
+      "doc_id": "66",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 0
+    },
+    {
+      "doc_id": "68",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "70",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "71",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "72",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 9,
+      "final_records": 0
+    },
+    {
+      "doc_id": "73",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "74",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 7
+    },
+    {
+      "doc_id": "75",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 0
+    },
+    {
+      "doc_id": "76",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 2,
+      "final_records": 2
+    },
+    {
+      "doc_id": "77",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 30,
+      "final_records": 23
+    },
+    {
+      "doc_id": "78",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 9
+    },
+    {
+      "doc_id": "80",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 11,
+      "final_records": 9
+    },
+    {
+      "doc_id": "81",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 10
+    },
+    {
+      "doc_id": "83",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 2
+    },
+    {
+      "doc_id": "84",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 19,
+      "final_records": 18
+    },
+    {
+      "doc_id": "85",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 15,
+      "final_records": 0
+    },
+    {
+      "doc_id": "88",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 0
+    },
+    {
+      "doc_id": "90",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 9,
+      "final_records": 0
+    },
+    {
+      "doc_id": "91",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 3
+    },
+    {
+      "doc_id": "92",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 6
+    },
+    {
+      "doc_id": "93",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 7
+    },
+    {
+      "doc_id": "94",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 3
+    },
+    {
+      "doc_id": "95",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 14,
+      "final_records": 0
+    },
+    {
+      "doc_id": "96",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 31,
+      "final_records": 0
+    },
+    {
+      "doc_id": "98",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 14,
+      "final_records": 14
+    },
+    {
+      "doc_id": "99",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 3
+    },
+    {
+      "doc_id": "100",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 0
+    },
+    {
+      "doc_id": "102",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 2,
+      "final_records": 2
+    },
+    {
+      "doc_id": "103",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 12
+    },
+    {
+      "doc_id": "104",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 10
+    },
+    {
+      "doc_id": "105",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 18,
+      "final_records": 17
+    },
+    {
+      "doc_id": "106",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 0
+    },
+    {
+      "doc_id": "107",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 0
+    },
+    {
+      "doc_id": "108",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "109",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "110",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "111",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 2
+    },
+    {
+      "doc_id": "112",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 29,
+      "final_records": 10
+    },
+    {
+      "doc_id": "113",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "114",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 13,
+      "final_records": 13
+    },
+    {
+      "doc_id": "116",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "117",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 5,
+      "final_records": 5
+    },
+    {
+      "doc_id": "118",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "119",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 44,
+      "final_records": 43
+    },
+    {
+      "doc_id": "120",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 0
+    },
+    {
+      "doc_id": "121",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 4
+    },
+    {
+      "doc_id": "122",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 12,
+      "final_records": 0
+    },
+    {
+      "doc_id": "123",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 3
+    },
+    {
+      "doc_id": "124",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 0
+    },
+    {
+      "doc_id": "125",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 15,
+      "final_records": 14
+    },
+    {
+      "doc_id": "126",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 16,
+      "final_records": 4
+    },
+    {
+      "doc_id": "127",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "128",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 5,
+      "final_records": 0
+    },
+    {
+      "doc_id": "129",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 4
+    },
+    {
+      "doc_id": "130",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 0
+    },
+    {
+      "doc_id": "131",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 11,
+      "final_records": 0
+    },
+    {
+      "doc_id": "132",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 5,
+      "final_records": 3
+    },
+    {
+      "doc_id": "133",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 10,
+      "final_records": 0
+    },
+    {
+      "doc_id": "135",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 14,
+      "final_records": 0
+    },
+    {
+      "doc_id": "136",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "137",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 14,
+      "final_records": 0
+    },
+    {
+      "doc_id": "138",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "139",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "140",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 0
+    },
+    {
+      "doc_id": "141",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 0
+    },
+    {
+      "doc_id": "142",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 11,
+      "final_records": 8
+    },
+    {
+      "doc_id": "143",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 2,
+      "final_records": 0
+    },
+    {
+      "doc_id": "144",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 2,
+      "final_records": 2
+    },
+    {
+      "doc_id": "145",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 6
+    },
+    {
+      "doc_id": "146",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 16,
+      "final_records": 0
+    },
+    {
+      "doc_id": "147",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "148",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 2
+    },
+    {
+      "doc_id": "149",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "150",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 22,
+      "final_records": 16
+    },
+    {
+      "doc_id": "151",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 14,
+      "final_records": 14
+    },
+    {
+      "doc_id": "153",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 16,
+      "final_records": 9
+    },
+    {
+      "doc_id": "154",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "155",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 19,
+      "final_records": 19
+    },
+    {
+      "doc_id": "156",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 11,
+      "final_records": 7
+    },
+    {
+      "doc_id": "157",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 0
+    },
+    {
+      "doc_id": "158",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 2,
+      "final_records": 0
+    },
+    {
+      "doc_id": "159",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "160",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 9,
+      "final_records": 0
+    },
+    {
+      "doc_id": "161",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 10,
+      "final_records": 8
+    },
+    {
+      "doc_id": "163",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 15,
+      "final_records": 0
+    },
+    {
+      "doc_id": "164",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 22,
+      "final_records": 19
+    },
+    {
+      "doc_id": "165",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 5
+    },
+    {
+      "doc_id": "166",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 11,
+      "final_records": 0
+    },
+    {
+      "doc_id": "167",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 8
+    },
+    {
+      "doc_id": "169",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 5,
+      "final_records": 0
+    },
+    {
+      "doc_id": "170",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "171",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 2,
+      "final_records": 0
+    },
+    {
+      "doc_id": "176",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 8,
+      "final_records": 0
+    },
+    {
+      "doc_id": "177",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 22,
+      "final_records": 2
+    },
+    {
+      "doc_id": "178",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 7
+    },
+    {
+      "doc_id": "179",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 0
+    },
+    {
+      "doc_id": "180",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 11,
+      "final_records": 10
+    },
+    {
+      "doc_id": "181",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 15,
+      "final_records": 10
+    },
+    {
+      "doc_id": "182",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "183",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "184",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "185",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 0
+    },
+    {
+      "doc_id": "187",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 11,
+      "final_records": 0
+    },
+    {
+      "doc_id": "188",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 4
+    },
+    {
+      "doc_id": "189",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 13,
+      "final_records": 8
+    },
+    {
+      "doc_id": "190",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "191",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 27,
+      "final_records": 17
+    },
+    {
+      "doc_id": "192",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 9,
+      "final_records": 6
+    },
+    {
+      "doc_id": "193",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "194",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 3,
+      "final_records": 0
+    },
+    {
+      "doc_id": "195",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 5,
+      "final_records": 3
+    },
+    {
+      "doc_id": "196",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 2
+    },
+    {
+      "doc_id": "197",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 0,
+      "final_records": 0
+    },
+    {
+      "doc_id": "200",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 5
+    },
+    {
+      "doc_id": "201",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "202",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 2
+    },
+    {
+      "doc_id": "203",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 1,
+      "final_records": 1
+    },
+    {
+      "doc_id": "204",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 6,
+      "final_records": 0
+    },
+    {
+      "doc_id": "205",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 17,
+      "final_records": 0
+    },
+    {
+      "doc_id": "206",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 25,
+      "final_records": 21
+    },
+    {
+      "doc_id": "207",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 5
+    },
+    {
+      "doc_id": "208",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 7,
+      "final_records": 0
+    },
+    {
+      "doc_id": "209",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 4,
+      "final_records": 0
+    },
+    {
+      "doc_id": "210",
+      "v4_status": "completed",
+      "v4_error": "",
+      "v4_doc_level_candidates": 9,
+      "final_records": 5
+    }
+  ]
+}

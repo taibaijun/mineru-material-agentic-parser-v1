@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: MinerU Material Agentic Parser V1
+type: dataset
+authors:
+  - family-names: taibaijun
+repository-code: https://github.com/taibaijun/mineru-material-agentic-parser-v1
+abstract: Agentic AI and deterministic validation pipeline for extracting material entities and properties from MinerU-parsed scientific literature.
+license: CC-BY-4.0
+date-released: 2026-05-30

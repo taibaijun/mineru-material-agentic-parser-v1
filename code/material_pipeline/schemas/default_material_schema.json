@@ -1,0 +1,45 @@
+{
+  "entities": {
+    "material": {
+      "description": "Material entity, including names, aliases, formulas, samples, substrates, and example labels when the document is a patent.",
+      "fields": ["name", "canonical_name", "aliases", "formula", "category", "evidence"]
+    }
+  },
+  "properties": {
+    "adhesion_strength": {
+      "domains": ["adhesive"],
+      "aliases": ["adhesion strength", "lap-shear strength", "peel strength", "粘接强度", "剪切强度"],
+      "units": ["MPa", "kPa", "N/mm"]
+    },
+    "ionic_conductivity": {
+      "domains": ["solid_electrolyte", "solid_state_battery"],
+      "aliases": ["ionic conductivity", "Li+ conductivity", "ion conductivity", "离子电导率"],
+      "units": ["S cm^-1", "S/cm", "mS cm^-1", "mS/cm"]
+    },
+    "discharge_capacity": {
+      "domains": ["solid_state_battery"],
+      "aliases": ["discharge capacity", "specific capacity", "容量", "放电容量"],
+      "units": ["mAh g^-1", "mAh/g"]
+    },
+    "thermal_transition": {
+      "domains": ["polymer", "adhesive"],
+      "aliases": ["Tg", "glass transition temperature", "Tm", "melting point", "玻璃化转变温度", "熔点"],
+      "units": ["°C", "K"]
+    },
+    "process_temperature": {
+      "domains": ["all"],
+      "aliases": ["sintering temperature", "curing temperature", "heating temperature", "烧结温度", "固化温度"],
+      "units": ["°C", "K"]
+    }
+  },
+  "fact_required_fields": [
+    "doc_id",
+    "page_range",
+    "material",
+    "property",
+    "value",
+    "unit",
+    "evidence",
+    "confidence"
+  ]
+}

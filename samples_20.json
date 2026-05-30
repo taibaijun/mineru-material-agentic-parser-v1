@@ -1,0 +1,782 @@
+[
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The text states that the dried gel (LFP/C@LATP) was sintered at 800 °C for 4 h in Ar.",
+    "candidate_keys": [
+      "9013c20ae37aff6684c3d34dd849197095b77435"
+    ],
+    "condition": {
+      "atmosphere": "Ar",
+      "duration": "4 h"
+    },
+    "confidence": 0.95,
+    "doc_id": "3",
+    "evidence": "sintered in an Ar atmosphere at 800 °C for 4 h",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "sintered in an Ar atmosphere at 800 °C for 4 h",
+    "material": "LFP/C@LATP",
+    "material_binding": {
+      "measured_entity": "LFP/C@LATP",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-62",
+    "property": "process_temperature",
+    "property_subtype": "sintering temperature",
+    "record_id": "3f87f3ca7b75151e",
+    "source_doc_type": "primary_research",
+    "source_property_label": "sintered",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "The evidence exactly matches the combined text: 'sintered in an Ar atmosphere at 800 °C for 4 h' for LFP/C@LATP. Property is process_temperature (sintering temperature).",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 800,
+    "value_max": null,
+    "value_text": "800"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The text describes synthesis of bare LFP/C: pre-sintered at 400 °C for 5 h in Ar/H2.",
+    "candidate_keys": [
+      "9013c20ae37aff6684c3d34dd849197095b77435"
+    ],
+    "condition": {
+      "atmosphere": "Ar(95%)/H2(5%)",
+      "duration": "5 h"
+    },
+    "confidence": 0.95,
+    "doc_id": "3",
+    "evidence": "pre-sintered at 400 °C for 5 h",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "pre-sintered at 400 °C for 5 h",
+    "material": "LFP/C",
+    "material_binding": {
+      "measured_entity": "LFP/C",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-62",
+    "property": "process_temperature",
+    "property_subtype": "pre-sintering temperature",
+    "record_id": "54ec3eb139ba1f9a",
+    "source_doc_type": "primary_research",
+    "source_property_label": "pre-sintered",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "The evidence exactly matches: 'pre-sintered at 400 °C for 5 h' for bare LFP/C. Property is process_temperature (pre-sintering temperature).",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 400,
+    "value_max": null,
+    "value_text": "400"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The text states that the mixture for LFP/C@LATP@GNS was heated to 90 °C to evaporate water.",
+    "candidate_keys": [
+      "7e39fcc07aee674c8cce5004d463abd08eb2d25a"
+    ],
+    "condition": {
+      "duration": "until water evaporated",
+      "stirring": "3 h"
+    },
+    "confidence": 0.9,
+    "doc_id": "3",
+    "evidence": "The mixture was heated to 90 °C until the water was completely evaporated after vigorous stirring for 3 h.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "The mixture was heated to 90 °C until the water was completely evaporated after vigorous stirring for 3 h.",
+    "material": "LFP/C@LATP@GNS",
+    "material_binding": {
+      "measured_entity": "LFP/C@LATP@GNS",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-62",
+    "property": "process_temperature",
+    "property_subtype": "drying before sintering",
+    "record_id": "6c9a0a515dd5282d",
+    "source_doc_type": "primary_research",
+    "source_property_label": "heated to",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "The evidence exactly matches: 'The mixture was heated to 90 °C until the water was completely evaporated' for LFP/C@LATP@GNS. Property is process_temperature (drying before sintering).",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 90,
+    "value_max": null,
+    "value_text": "90"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The text describes electrode preparation: slurry of LFP/C composites, Super P, and binder on Al foil, dried at 120 °C for 10 h.",
+    "candidate_keys": [
+      "8f851399179756c6f3d90543ddc5ac1a56978222"
+    ],
+    "condition": {
+      "duration": "10 h",
+      "substrate": "aluminum foil"
+    },
+    "confidence": 0.95,
+    "doc_id": "3",
+    "evidence": "dried at 120 °C for 10 h",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "dried at 120 °C for 10 h",
+    "material": "LFP/C composites",
+    "material_binding": {
+      "measured_entity": "LFP/C composites",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-62",
+    "property": "process_temperature",
+    "property_subtype": "drying temperature",
+    "record_id": "6ddc7dd661616e69",
+    "source_doc_type": "primary_research",
+    "source_property_label": "dried at",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "The evidence exactly matches: 'dried at 120 °C for 10 h' for LFP/C composites electrode preparation. Property is process_temperature (drying temperature).",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 120,
+    "value_max": null,
+    "value_text": "120"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The text explicitly states that the black gel (LFP/C@LATP) was dried at 80-90 °C for 2 h.",
+    "candidate_keys": [
+      "9013c20ae37aff6684c3d34dd849197095b77435"
+    ],
+    "condition": {
+      "duration": "2 h",
+      "material_state": "gel"
+    },
+    "confidence": 0.95,
+    "doc_id": "3",
+    "evidence": "The obtained black gel was dried at 80-90 °C for 2 h",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "The obtained black gel was dried at 80-90 °C for 2 h",
+    "material": "LFP/C@LATP",
+    "material_binding": {
+      "measured_entity": "LFP/C@LATP",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-62",
+    "property": "process_temperature",
+    "property_subtype": "drying temperature",
+    "record_id": "abce4f8ab556e5ed",
+    "source_doc_type": "primary_research",
+    "source_property_label": "dried at",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "The evidence exactly matches: 'The obtained black gel was dried at 80-90 °C for 2 h' for LFP/C@LATP. Property is process_temperature (drying temperature).",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 85,
+    "value_max": 90,
+    "value_text": "80-90"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The evidence describes a cyclic thermomechanical experiment for a POSS-PCL network with 42 wt% POSS content, where cooling induces elongation at 55°C, binding the material to this temperature.",
+    "candidate_keys": [
+      "743df0b2e119943271b6464ea1fc9d88464871bb"
+    ],
+    "condition": {},
+    "confidence": 0.85,
+    "doc_id": "4",
+    "evidence": "The experiments began at the asterisk with the sample being cooled, inducing rapid elongation at 55°C.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "The experiments began at the asterisk with the sample being cooled, inducing rapid elongation at 55°C.",
+    "material": "POSS-PCL network with 42 wt% POSS",
+    "material_binding": {
+      "measured_entity": "POSS-PCL network with 42 wt% POSS",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "65-128",
+    "property": "process_temperature",
+    "property_subtype": "cooling-induced elongation temperature",
+    "record_id": "00fc80b05081123b",
+    "source_doc_type": "primary_research",
+    "source_property_label": "cooling-induced elongation temperature",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Evidence directly states cooling-induced elongation at 55°C for POSS-PCL network with 42 wt% POSS. Property is process_temperature (cooling-induced elongation temperature). Source is primary research (experimental figure caption).",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 55,
+    "value_max": null,
+    "value_text": "55"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The evidence describes a SmC LCE undergoing phase transition when heated from 25 to 90°C, binding the material to this temperature range.",
+    "candidate_keys": [
+      "82c53e9c16b91f53957c7c01da42f2330ed982e7"
+    ],
+    "condition": {},
+    "confidence": 0.85,
+    "doc_id": "4",
+    "evidence": "When the LCE was heated from 25 to 90°C the SmC phases transformed into the SmA phase, while the tilt angle decreased from 23° to 11°.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "When the LCE was heated from 25 to 90°C the SmC phases transformed into the SmA phase, while the tilt angle decreased from 23° to 11°.",
+    "material": "SmC LCE (liquid crystal elastomer)",
+    "material_binding": {
+      "measured_entity": "SmC LCE (liquid crystal elastomer)",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "process_temperature",
+    "property_subtype": "heating range for phase transition",
+    "record_id": "2647c83f3a7e6e3e",
+    "source_doc_type": "primary_research",
+    "source_property_label": "heating range for phase transition",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Evidence directly states heating from 25 to 90°C for SmC LCE causing phase transition. Property is process_temperature (heating range for phase transition). Source is primary research.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 25,
+    "value_max": 90,
+    "value_text": "25 to 90"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The evidence explicitly states that the epoxy/TEG composite was cured at 120°C, binding the material to this curing temperature.",
+    "candidate_keys": [
+      "b093dc2d6c3e66463469cad1b6b20cb66672545f"
+    ],
+    "condition": {},
+    "confidence": 0.9,
+    "doc_id": "4",
+    "evidence": "The samples were prepared by mixing the epoxy composition and TEG powder components in the required proportion. Then the polymer billets were cured in a cylindrical or pipe-like mould at 120°C for 4 h.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "The samples were prepared by mixing the epoxy composition and TEG powder components in the required proportion. Then the polymer billets were cured in a cylindrical or pipe-like mould at 120°C for 4 h.",
+    "material": "Epoxy/TEG composite",
+    "material_binding": {
+      "measured_entity": "Epoxy/TEG composite",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "65-128",
+    "property": "process_temperature",
+    "property_subtype": "curing temperature",
+    "record_id": "3eeeb67d4f06574c",
+    "source_doc_type": "primary_research",
+    "source_property_label": "curing temperature",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Evidence explicitly states curing at 120°C for epoxy/TEG composite. Property is process_temperature (curing temperature). Source is primary research.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 120,
+    "value_max": null,
+    "value_text": "120"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The evidence states that the same SmC LCE, when heated further from 90 to 130°C, undergoes another phase transition, binding the material to this temperature range.",
+    "candidate_keys": [
+      "82c53e9c16b91f53957c7c01da42f2330ed982e7"
+    ],
+    "condition": {},
+    "confidence": 0.85,
+    "doc_id": "4",
+    "evidence": "Upon further temperature increase from 90 to 130°C, the SmA phase transformed into the isotropic phase resulting in a sample shrinkage from 8.5 to 6.3 mm.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "Upon further temperature increase from 90 to 130°C, the SmA phase transformed into the isotropic phase resulting in a sample shrinkage from 8.5 to 6.3 mm.",
+    "material": "SmC LCE (liquid crystal elastomer)",
+    "material_binding": {
+      "measured_entity": "SmC LCE (liquid crystal elastomer)",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "process_temperature",
+    "property_subtype": "heating range for further phase transition",
+    "record_id": "5e89e62f05f0b60c",
+    "source_doc_type": "primary_research",
+    "source_property_label": "heating range for further phase transition",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Evidence directly states further heating from 90 to 130°C for same SmC LCE causing another phase transition. Property is process_temperature (heating range for further phase transition). Source is primary research.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 90,
+    "value_max": 130,
+    "value_text": "90 to 130"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The sentence explicitly gives initial weight loss temperature for siliconized epoxy system cured with phosphorus-containing diamine as 239°C.",
+    "candidate_keys": [
+      "46ecffb3054e631751c33224c66b4c4135c23273"
+    ],
+    "condition": {
+      "curing_agent": "phosphorus-containing diamine"
+    },
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "The initial weight loss for siliconized epoxy system occurred at around 239°C followed by a further weight loss at 378°C.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "The initial weight loss for siliconized epoxy system occurred at around 239°C followed by a further weight loss at 378°C.",
+    "material": "siliconized epoxy system",
+    "material_binding": {
+      "measured_entity": "siliconized epoxy system",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "process_temperature",
+    "property_subtype": "initial weight loss temperature",
+    "record_id": "cbbbd4ad4f5f84ff",
+    "source_doc_type": "primary_research",
+    "source_property_label": "initial weight loss",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md supports initial weight loss temperature for siliconized epoxy system cured with phosphorus-containing diamine as 239°C. Property process_temperature is appropriate for intentional preparation condition (thermal degradation temperature).",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 239,
+    "value_max": null,
+    "value_text": "239"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The evidence explicitly states the decomposition temperature of neat silicone rubber as 381°C.",
+    "candidate_keys": [
+      "9a4addb70d3089a96a564eff38cc2dfd62093065"
+    ],
+    "condition": {},
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "in comparison to 381°C of neat silicone rubber",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "in comparison to 381°C of neat silicone rubber",
+    "material": "neat silicone rubber",
+    "material_binding": {
+      "measured_entity": "neat silicone rubber",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "65-128",
+    "property": "process_temperature",
+    "property_subtype": "decomposition temperature",
+    "record_id": "d5958dc48229eb8b",
+    "source_doc_type": "primary_research",
+    "source_property_label": "decomposition temperature",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md supports decomposition temperature of neat silicone rubber as 381°C. Property process_temperature is appropriate for thermal degradation temperature.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 381,
+    "value_max": null,
+    "value_text": "381"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "Same sentence, for 0.5 vol% MWCNT-filled PDMS, temperature is 493°C.",
+    "candidate_keys": [
+      "35b4a532c3c8dceb6d43e3428bc69b34e57a169a"
+    ],
+    "condition": {
+      "filler": "0.5 vol% MWCNT",
+      "weight_loss": "10%"
+    },
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "the temperatures at 10% weight loss of 0, 0.5 and 2.0 vol% MWCNT-filled PDMS nanocomposites are 473, 493 and 496°C, respectively.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "the temperatures at 10% weight loss of 0, 0.5 and 2.0 vol% MWCNT-filled PDMS nanocomposites are 473, 493 and 496°C, respectively.",
+    "material": "PDMS",
+    "material_binding": {
+      "measured_entity": "PDMS",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "65-128",
+    "property": "process_temperature",
+    "property_subtype": "degradation temperature (10% weight loss)",
+    "record_id": "f2ccb8b4c51738bc",
+    "source_doc_type": "primary_research",
+    "source_property_label": "temperatures at 10% weight loss",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md supports temperature at 10% weight loss for 0.5 vol% MWCNT-filled PDMS as 493°C. Property process_temperature is appropriate for thermal degradation temperature.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 493,
+    "value_max": null,
+    "value_text": "493"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "Same sentence, for 10% siloxane content, Tg is 125°C.",
+    "candidate_keys": [
+      "657c46ad02921e2232bd97d46106706112a8edae"
+    ],
+    "condition": {
+      "curing_agent": "HMDA",
+      "siloxane_content": "10%"
+    },
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "while for HMDA the values of Tg were found to be 126°C, 125°C and 123°C, respectively.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "while for HMDA the values of Tg were found to be 126°C, 125°C and 123°C, respectively.",
+    "material": "hybrid siliconized epoxy material",
+    "material_binding": {
+      "measured_entity": "hybrid siliconized epoxy material",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "thermal_transition",
+    "property_subtype": "glass transition temperature (Tg)",
+    "record_id": "0ec08e7c836dc3ce",
+    "source_doc_type": "primary_research",
+    "source_property_label": "Tg",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md supports Tg of hybrid siliconized epoxy material with 10% siloxane content cured by HMDA as 125°C. Property thermal_transition is correct.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 125,
+    "value_max": null,
+    "value_text": "125"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The evidence explicitly states the Tg of unmodified epoxy as 177°C.",
+    "candidate_keys": [
+      "25558b7d42a021c3363d93dbe9d3d811bc8855ff"
+    ],
+    "condition": {},
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "The Tg of the unmodified epoxy was found to be 177°C",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "The Tg of the unmodified epoxy was found to be 177°C",
+    "material": "unmodified epoxy",
+    "material_binding": {
+      "measured_entity": "unmodified epoxy",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "thermal_transition",
+    "property_subtype": "glass transition temperature",
+    "record_id": "1a27cd3d4109bfce",
+    "source_doc_type": "primary_research",
+    "source_property_label": "Tg",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md supports Tg of unmodified epoxy as 177°C. Property thermal_transition is correct.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 177,
+    "value_max": null,
+    "value_text": "177"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The sentence gives Tg for hybrid siliconized epoxy with 5% siloxane content cured by HMDA as 126°C.",
+    "candidate_keys": [
+      "657c46ad02921e2232bd97d46106706112a8edae"
+    ],
+    "condition": {
+      "curing_agent": "HMDA",
+      "siloxane_content": "5%"
+    },
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "while for HMDA the values of Tg were found to be 126°C, 125°C and 123°C, respectively.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "while for HMDA the values of Tg were found to be 126°C, 125°C and 123°C, respectively.",
+    "material": "hybrid siliconized epoxy material",
+    "material_binding": {
+      "measured_entity": "hybrid siliconized epoxy material",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "thermal_transition",
+    "property_subtype": "glass transition temperature (Tg)",
+    "record_id": "347b6f2a4a25239e",
+    "source_doc_type": "primary_research",
+    "source_property_label": "Tg",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md, Tg value 126°C for hybrid siliconized epoxy with 5% siloxane and HMDA curing agent is correctly extracted.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 126,
+    "value_max": null,
+    "value_text": "126"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "The evidence explicitly states the Tg of TGDDM/BAPPO as 207°C.",
+    "candidate_keys": [
+      "518f95fd0e6973e45e196ae54478c28b3ccc08e9"
+    ],
+    "condition": {},
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "the Tg and storage modulus of TGDDM/BAPPO system were enhanced to 207°C",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "the Tg and storage modulus of TGDDM/BAPPO system were enhanced to 207°C",
+    "material": "TGDDM/BAPPO",
+    "material_binding": {
+      "measured_entity": "TGDDM/BAPPO",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "thermal_transition",
+    "property_subtype": "glass transition temperature",
+    "record_id": "4eb29b97a363b689",
+    "source_doc_type": "primary_research",
+    "source_property_label": "Tg",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md, Tg of TGDDM/BAPPO system is 207°C, correctly extracted.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 207,
+    "value_max": null,
+    "value_text": "207"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "Same sentence, for 15% siloxane content, Tg is 123°C.",
+    "candidate_keys": [
+      "657c46ad02921e2232bd97d46106706112a8edae"
+    ],
+    "condition": {
+      "curing_agent": "HMDA",
+      "siloxane_content": "15%"
+    },
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "while for HMDA the values of Tg were found to be 126°C, 125°C and 123°C, respectively.",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "while for HMDA the values of Tg were found to be 126°C, 125°C and 123°C, respectively.",
+    "material": "hybrid siliconized epoxy material",
+    "material_binding": {
+      "measured_entity": "hybrid siliconized epoxy material",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "thermal_transition",
+    "property_subtype": "glass transition temperature (Tg)",
+    "record_id": "5275dcdfd6553472",
+    "source_doc_type": "primary_research",
+    "source_property_label": "Tg",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md, Tg 123°C for hybrid siliconized epoxy with 15% siloxane and HMDA curing agent is correctly extracted.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 123,
+    "value_max": null,
+    "value_text": "123"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "Same sentence, for 10% siloxane content, Tg is 161°C.",
+    "candidate_keys": [
+      "657c46ad02921e2232bd97d46106706112a8edae"
+    ],
+    "condition": {
+      "curing_agent": "BAPPO",
+      "siloxane_content": "10%"
+    },
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "the values of Tg of hybrid siliconized epoxy materials having 5%, 10% and 15% siloxane content cured by BAPPO are 163°C, 161°C and 160°C, respectively",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "the values of Tg of hybrid siliconized epoxy materials having 5%, 10% and 15% siloxane content cured by BAPPO are 163°C, 161°C and 160°C, respectively",
+    "material": "hybrid siliconized epoxy material",
+    "material_binding": {
+      "measured_entity": "hybrid siliconized epoxy material",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "thermal_transition",
+    "property_subtype": "glass transition temperature (Tg)",
+    "record_id": "6394e0c5cc6b9c3c",
+    "source_doc_type": "primary_research",
+    "source_property_label": "Tg",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md, Tg 161°C for hybrid siliconized epoxy with 10% siloxane and BAPPO curing agent is correctly extracted.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 161,
+    "value_max": null,
+    "value_text": "161"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "Same sentence, for 15% siloxane content, Tg is 160°C.",
+    "candidate_keys": [
+      "657c46ad02921e2232bd97d46106706112a8edae"
+    ],
+    "condition": {
+      "curing_agent": "BAPPO",
+      "siloxane_content": "15%"
+    },
+    "confidence": 0.95,
+    "doc_id": "5",
+    "evidence": "the values of Tg of hybrid siliconized epoxy materials having 5%, 10% and 15% siloxane content cured by BAPPO are 163°C, 161°C and 160°C, respectively",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "the values of Tg of hybrid siliconized epoxy materials having 5%, 10% and 15% siloxane content cured by BAPPO are 163°C, 161°C and 160°C, respectively",
+    "material": "hybrid siliconized epoxy material",
+    "material_binding": {
+      "measured_entity": "hybrid siliconized epoxy material",
+      "problem": null,
+      "roles": {}
+    },
+    "page_range": "1-64",
+    "property": "thermal_transition",
+    "property_subtype": "glass transition temperature (Tg)",
+    "record_id": "68f135a331bad4b9",
+    "source_doc_type": "primary_research",
+    "source_property_label": "Tg",
+    "target_property_match": true,
+    "unit": "°C",
+    "v5_semantic_reason": "Exact quote in combined.md, Tg 160°C for hybrid siliconized epoxy with 15% siloxane and BAPPO curing agent is correctly extracted.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 160,
+    "value_max": null,
+    "value_text": "160"
+  },
+  {
+    "agentic_source": "v5_input_record",
+    "agentic_version": "agentic_material_corpus_v5_semantic_binder",
+    "binding_explanation": "Same row, column '15C下首圈放电比容量电(mAh/g)' gives 79.56 mAh/g for material Li3V2(P17/18Si1/18O4)3.",
+    "candidate_keys": [
+      "6d0c23bcaf7a790495866bf5ea710fbeb49d94a7"
+    ],
+    "condition": {
+      "cycle": 1,
+      "rate": "15C"
+    },
+    "confidence": 0.98,
+    "doc_id": "8",
+    "evidence": "<tr><td>S14</td><td> $Li_{3}V_{2}(P_{17/18}Si_{1/18}O_{4})_{3}$ </td><td>3.30</td><td>117.12</td><td>95.12%</td><td>79.56</td><td>68.55%</td></tr>",
+    "evidence_assessment": {
+      "problem": null,
+      "quote_in_combined": true,
+      "row_column_binding_clear": true
+    },
+    "evidence_quote": "<tr><td>S14</td><td> $Li_{3}V_{2}(P_{17/18}Si_{1/18}O_{4})_{3}$ </td><td>3.30</td><td>117.12</td><td>95.12%</td><td>79.56</td><td>68.55%</td></tr>",
+    "material": "Li3V2(P17/18Si1/18O4)3",
+    "material_binding": {
+      "measured_entity": "Li3V2(P17/18Si1/18O4)3",
+      "problem": null,
+      "roles": {
+        "electrode": "Li3V2(P17/18Si1/18O4)3"
+      }
+    },
+    "page_range": "1-20",
+    "property": "discharge_capacity",
+    "property_subtype": null,
+    "record_id": "2aa66e94b7d5882a",
+    "source_doc_type": "patent",
+    "source_property_label": "15C下首圈放电比容量电(mAh/g)",
+    "target_property_match": true,
+    "unit": "mAh/g",
+    "v5_semantic_reason": "Table 2 row S14: material Li3V2(P17/18Si1/18O4)3, column '15C下首圈放电比容量电(mAh/g)' value 79.56 mAh/g at 15C, cycle 1. Property discharge_capacity matches schema. Evidence quote exact from combined.md.",
+    "v5_semantic_verdict": "ACCEPT",
+    "value": 79.56,
+    "value_max": null,
+    "value_text": "79.56"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stage2MaterialFact",
+  "type": "object",
+  "required": [
+    "record_id",
+    "doc_id",
+    "page_range",
+    "material",
+    "property",
+    "value",
+    "unit",
+    "evidence",
+    "confidence"
+  ],
+  "properties": {
+    "record_id": {"type": "string"},
+    "doc_id": {"type": "string"},
+    "page_range": {"type": "string"},
+    "domain": {"type": "string"},
+    "material": {"type": "string", "minLength": 1},
+    "property": {
+      "type": "string",
+      "enum": [
+        "adhesion_strength",
+        "ionic_conductivity",
+        "discharge_capacity",
+        "thermal_transition",
+        "process_temperature"
+      ]
+    },
+    "property_subtype": {"type": "string"},
+    "value": {"type": "number"},
+    "value_max": {"type": "number"},
+    "value_text": {"type": "string"},
+    "unit": {"type": "string"},
+    "relation": {
+      "type": "string",
+      "enum": ["=", ">", "<", "approx", "range"]
+    },
+    "condition": {"type": "object"},
+    "evidence": {"type": "string", "minLength": 1},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_type": {"type": "string"},
+    "extraction_method": {"type": "string"},
+    "candidate_score": {"type": ["number", "null"]}
+  },
+  "additionalProperties": true
+}

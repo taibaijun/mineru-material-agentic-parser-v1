@@ -1,0 +1,48 @@
+{
+  "package": "submission_material_agentic_parser_v1",
+  "created_at": "2026-05-30T23:36:34",
+  "repository": "https://github.com/taibaijun/mineru-material-agentic-parser-v1",
+  "task": "MinerU material literature intelligent parsing",
+  "input_doc_states": 181,
+  "input_doc_status_counts_before_retry": {
+    "completed": 180,
+    "failed": 1
+  },
+  "retry_doc_ids": [
+    "41"
+  ],
+  "doc_level_candidates_after_retry": 1421,
+  "v5_input_records": 1421,
+  "final_records": 688,
+  "review_or_discarded_records": 733,
+  "final_records_by_property": {
+    "process_temperature": 393,
+    "thermal_transition": 46,
+    "discharge_capacity": 117,
+    "ionic_conductivity": 77,
+    "adhesion_strength": 55
+  },
+  "final_records_by_source_doc_type": {
+    "primary_research": 143,
+    "patent": 545
+  },
+  "docs_with_final_records": 90,
+  "quote_alignment": {
+    "exact": 678,
+    "whitespace_compact": 10
+  },
+  "hard_gate_errors": 0,
+  "local_check_pass": true,
+  "v5_review_by_type": {
+    "v5_duplicate_final": 36,
+    "v5_local_gate": 99,
+    "v5_reject": 45,
+    "v5_review_source": 530,
+    "v5_revise_missing_record": 23
+  },
+  "notes": [
+    "Final records are the conservative output after V5 semantic binding and deterministic hard gates.",
+    "Review/book-chapter records are excluded from the final dataset for precision.",
+    "Original PDFs and full MinerU combined.md files are not redistributed in the public repository."
+  ]
+}

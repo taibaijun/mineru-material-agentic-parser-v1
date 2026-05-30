@@ -1,0 +1,3 @@
+# Core pipeline and demo use Python standard library only.
+# Optional: python-pptx is only needed to regenerate docs/project_pitch_slides.pptx.
+python-pptx>=0.6.23

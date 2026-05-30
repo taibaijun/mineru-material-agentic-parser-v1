@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+Thumbs.db
+raw_papers/
+combined/
+candidates_full*/
+run_outputs/
+*.log

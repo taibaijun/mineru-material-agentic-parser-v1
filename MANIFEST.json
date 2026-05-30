@@ -1,0 +1,213 @@
+{
+  "package": "submission_material_agentic_parser_v1",
+  "repository": "https://github.com/taibaijun/mineru-material-agentic-parser-v1",
+  "file_count": 41,
+  "total_bytes": 2408730,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 110,
+      "sha256": "10079e054cff1cbe48f5351ba87a76aa5a798bd5e9c321e2101a3f2631defde0"
+    },
+    {
+      "path": "audits/doc_processing_summary.csv",
+      "bytes": 3679,
+      "sha256": "02aa0d8cdcc28a6c419cd6960ed66e034c367d028c15082a57c15eb2915e7006"
+    },
+    {
+      "path": "audits/doc_processing_summary.json",
+      "bytes": 27348,
+      "sha256": "77d4a94bbed8034b123251ad64abab32dd62ee68cae3f5736c5debb979a685b5"
+    },
+    {
+      "path": "audits/hard_gate_audit.json",
+      "bytes": 93,
+      "sha256": "8d14a56746dc35c1442e969763e3675bea1a8b20144be4110e8ec1cb6452e6b2"
+    },
+    {
+      "path": "audits/v5_summary.json",
+      "bytes": 1370,
+      "sha256": "5c3b050fde26f94ccdc7f6addabd3464e3fa8d78a12a066cf56610212069cbec"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 385,
+      "sha256": "c3f865b71add4cfc5552dba0f34447b4d39c40535f165216397fff90c1b7fbf8"
+    },
+    {
+      "path": "code/material_pipeline/common.py",
+      "bytes": 3295,
+      "sha256": "bd8839ea51c2e0322c0a8b56b59806897874ff8ff47d0be82ddba47d37b5c446"
+    },
+    {
+      "path": "code/material_pipeline/filter_nuextract_results.py",
+      "bytes": 8654,
+      "sha256": "8e9ade12011bac95a58e23d31cc124d85f3ff87d3562eb85924b5aceb3513739"
+    },
+    {
+      "path": "code/material_pipeline/normalize_nuextract_records.py",
+      "bytes": 11981,
+      "sha256": "14b577db0c34441467a9b29538c8d101523903bbd9ba5954f09a6cc9c59e07e9"
+    },
+    {
+      "path": "code/material_pipeline/run_agentic_material_corpus_v4.py",
+      "bytes": 43396,
+      "sha256": "b9dd6dc2e87caba5e05d99e9603f5b374ca75a9cca600da03d4229f78adf999b"
+    },
+    {
+      "path": "code/material_pipeline/run_agentic_material_corpus_v5.py",
+      "bytes": 43981,
+      "sha256": "007493c24902f3baeff8e002fdb1ea6f948eb8f816f45345525e215981244d34"
+    },
+    {
+      "path": "code/material_pipeline/run_agentic_material_reader_v3.py",
+      "bytes": 35342,
+      "sha256": "9c0321dab16fc94bad871118b2fdaf507695f10ca5dc4e14da3537146ec7598a"
+    },
+    {
+      "path": "code/material_pipeline/run_ai_certified_extraction.py",
+      "bytes": 26428,
+      "sha256": "f5fce45f4c1f9baf76bb0720593d97ee25bdbb36257d6d17e9cd8189225ada57"
+    },
+    {
+      "path": "code/material_pipeline/run_deepseek_extraction_experiment.py",
+      "bytes": 36912,
+      "sha256": "c18066cb44841337a3b1ae7fc5393a81e6d6b8aa97d380d2a573413d43b2b7f1"
+    },
+    {
+      "path": "code/material_pipeline/run_semantic_audit_judge.py",
+      "bytes": 11402,
+      "sha256": "17581e03ec47af042ac3e961964a3fc29135fecace73cffc9f81a914b50e5801"
+    },
+    {
+      "path": "code/material_pipeline/schemas/default_material_schema.json",
+      "bytes": 1563,
+      "sha256": "9ff773cf29ca54f6f2663577f4218fd37bf6192f4cf3dca024cc0f5aeb429927"
+    },
+    {
+      "path": "code/material_pipeline/schemas/stage2_material_fact_schema.json",
+      "bytes": 1322,
+      "sha256": "b709ecd23a60b40e8518569775545a43cf9c8e2af07ac057715dddf900158828"
+    },
+    {
+      "path": "code/material_pipeline/semantic_audit_records.py",
+      "bytes": 30697,
+      "sha256": "36fc1a07a73118c8849ed9c2aad0d022001c7cce8dbabbf954ebae958030da87"
+    },
+    {
+      "path": "data/default_material_schema.json",
+      "bytes": 1563,
+      "sha256": "9ff773cf29ca54f6f2663577f4218fd37bf6192f4cf3dca024cc0f5aeb429927"
+    },
+    {
+      "path": "data/doc_summary.csv",
+      "bytes": 636,
+      "sha256": "eab93e644eb82baf44b94a6c1fc1abb097b0f20bbd0c21c422f4a8c6fb495e62"
+    },
+    {
+      "path": "data/property_summary.csv",
+      "bytes": 141,
+      "sha256": "58523f7a3c298e245ded2dd7a360e8010a053c978e4b2d75d5f387abcd55114c"
+    },
+    {
+      "path": "data/stage2_material_fact_schema.json",
+      "bytes": 1322,
+      "sha256": "b709ecd23a60b40e8518569775545a43cf9c8e2af07ac057715dddf900158828"
+    },
+    {
+      "path": "data/submission_candidates.jsonl",
+      "bytes": 1014906,
+      "sha256": "fbde03710acc142947ee1a1641aa90eefab6943384ff585c1d3b83b04ac91789"
+    },
+    {
+      "path": "dataset.jsonl",
+      "bytes": 1014906,
+      "sha256": "fbde03710acc142947ee1a1641aa90eefab6943384ff585c1d3b83b04ac91789"
+    },
+    {
+      "path": "demo/material_api.py",
+      "bytes": 3434,
+      "sha256": "342544536f862986788038c8671581746717ce7173331472a26e3869e918b169"
+    },
+    {
+      "path": "docs/construction_pipeline.md",
+      "bytes": 1170,
+      "sha256": "73898e90497293f405ea4635b0f928eaa522ce7b0831190c65869dfda5e808de"
+    },
+    {
+      "path": "docs/demo_api.md",
+      "bytes": 603,
+      "sha256": "ba04bfc9b23bdbda98abcc6ae142d89a7d4cb5fcd1c159757783dc151a4ddd4c"
+    },
+    {
+      "path": "docs/mineru_usage.md",
+      "bytes": 507,
+      "sha256": "a021693f2c13b942bee48e5351e09b7dd5bf1c0d40bbaf9da79da7f8ed9329c0"
+    },
+    {
+      "path": "docs/project_pitch_slides.md",
+      "bytes": 1003,
+      "sha256": "6e9c9d905f48a9c342a12b299bd83b7560e56aa4af1f6ec5ff3315bf33514110"
+    },
+    {
+      "path": "docs/project_pitch_slides.pptx",
+      "bytes": 34668,
+      "sha256": "e4d95b60e07fd6b680cd267f62b70170e88980b276186f7d2d92f68db4f8a1ef"
+    },
+    {
+      "path": "docs/schema.md",
+      "bytes": 1144,
+      "sha256": "6eb76b81b040abeb57db2444946b2d3818de077515824e8f9010dbfe480ea2cc"
+    },
+    {
+      "path": "docs/submission_checklist.md",
+      "bytes": 798,
+      "sha256": "57a17f5048a05b89f983bb19c87e43bb727035ff34b9378630cdeddfb5afb37e"
+    },
+    {
+      "path": "docs/technical_report.md",
+      "bytes": 3251,
+      "sha256": "70a42edd673d8a13709704adc5376276b73bf6380a19c4ecaaa84ec7c69c40f7"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 811,
+      "sha256": "20721f30452efa98ba6549dfbb50f95379dec000b1ecb77689d9fb803d45dd6d"
+    },
+    {
+      "path": "quality_report.json",
+      "bytes": 1443,
+      "sha256": "f5d58dcbe9572ae825eb4cfdeb3a3830d324ceb74ba3aa01952ce0e90d12c5a9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2386,
+      "sha256": "84ee5303e7b0f47d662f7d12b0be302c85841a8cdb09bdc32021958a68bbb50d"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 164,
+      "sha256": "e3e6b17f221c23333a6487a22044fbe58c2570628297f8f092854a15beb80fde"
+    },
+    {
+      "path": "samples_20.json",
+      "bytes": 31624,
+      "sha256": "d159cf6d1550445a6d0582e94affee7848b9c495607695f60cfbb7cc76799d0a"
+    },
+    {
+      "path": "scripts/run_v4_v5_pipeline.ps1",
+      "bytes": 1217,
+      "sha256": "285cff18aa071c4ed13dfaff45f3c26af93893b22cb43bd1384cc97883947d0f"
+    },
+    {
+      "path": "scripts/search_dataset.py",
+      "bytes": 1218,
+      "sha256": "42f51e8830ad1a9987d6472d9f2fc4eeb476cdaf367d958c0059495fcb71a218"
+    },
+    {
+      "path": "scripts/validate_submission.py",
+      "bytes": 1857,
+      "sha256": "f5fabe3f674ef2427eac12c57d790f47d0a790b80d1988aadc19ca5959127b95"
+    }
+  ]
+}

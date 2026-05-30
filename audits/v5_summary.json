@@ -1,0 +1,47 @@
+{
+  "ai_source_type_counts": {
+    "book_chapter": 282,
+    "patent": 664,
+    "primary_research": 188,
+    "review": 287
+  },
+  "ai_verdict_counts": {
+    "ACCEPT": 1016,
+    "REJECT": 45,
+    "REVISE": 360
+  },
+  "api_usage_totals": {
+    "completion_tokens": 386409,
+    "prompt_cache_hit_tokens": 540672,
+    "prompt_cache_miss_tokens": 5777303,
+    "prompt_tokens": 6317975,
+    "total_tokens": 6704384
+  },
+  "exclude_review_sources": true,
+  "final_by_property": {
+    "adhesion_strength": 55,
+    "discharge_capacity": 117,
+    "ionic_conductivity": 77,
+    "process_temperature": 393,
+    "thermal_transition": 46
+  },
+  "final_records": 688,
+  "groups": 352,
+  "input_json_errors": 0,
+  "input_records": 1421,
+  "local_check_pass": true,
+  "min_accept_confidence": 0.8,
+  "model": "deepseek-v4-flash",
+  "output_jsonl_errors": [],
+  "review_by_type": {
+    "v5_duplicate_final": 36,
+    "v5_local_gate": 99,
+    "v5_reject": 45,
+    "v5_review_source": 530,
+    "v5_revise_missing_record": 23
+  },
+  "review_records": 733,
+  "semantic_gate": "DeepSeek semantic binder must verify source property label, target property match, measured entity/material roles, and exact combined.md evidence before final acceptance.",
+  "time": "2026-05-30T23:12:12+08:00",
+  "version": "agentic_material_corpus_v5_semantic_binder"
+}
