@@ -1,8 +1,8 @@
 {
   "package": "submission_material_agentic_parser_v1",
   "repository": "https://github.com/taibaijun/mineru-material-agentic-parser-v1",
-  "file_count": 48,
-  "total_bytes": 2590173,
+  "file_count": 41,
+  "total_bytes": 2408724,
   "files": [
     {
       "path": ".gitignore",
@@ -33,26 +33,6 @@
       "path": "CITATION.cff",
       "bytes": 385,
       "sha256": "c3f865b71add4cfc5552dba0f34447b4d39c40535f165216397fff90c1b7fbf8"
-    },
-    {
-      "path": "code/material_pipeline/__pycache__/common.cpython-312.pyc",
-      "bytes": 6449,
-      "sha256": "b40d5e55be2999eeb724310b8df4832a61b2faabf105e053a91acd5e94cf776f"
-    },
-    {
-      "path": "code/material_pipeline/__pycache__/run_agentic_material_corpus_v4.cpython-312.pyc",
-      "bytes": 56297,
-      "sha256": "e3e3c8abfa51ca128d10aa6be00f643cd71beb66d9fe05c355725cafae50db66"
-    },
-    {
-      "path": "code/material_pipeline/__pycache__/run_agentic_material_corpus_v5.cpython-312.pyc",
-      "bytes": 60859,
-      "sha256": "8f76781a7cfaad1648ead711167fcc164571a7f2195b38dc82f75e52d559179e"
-    },
-    {
-      "path": "code/material_pipeline/__pycache__/run_agentic_material_reader_v3.cpython-312.pyc",
-      "bytes": 45966,
-      "sha256": "8bd3fb74c0d90fbcd4fb4458c890f46982f24f17f964d3efefa38528cf42c512"
     },
     {
       "path": "code/material_pipeline/common.py",
@@ -145,11 +125,6 @@
       "sha256": "fbde03710acc142947ee1a1641aa90eefab6943384ff585c1d3b83b04ac91789"
     },
     {
-      "path": "demo/__pycache__/material_api.cpython-312.pyc",
-      "bytes": 6302,
-      "sha256": "2cc3c31be61868851883adbcf983f6fcce6bc31a8a8eeeb93a4a681373f98df2"
-    },
-    {
       "path": "demo/material_api.py",
       "bytes": 3434,
       "sha256": "342544536f862986788038c8671581746717ce7173331472a26e3869e918b169"
@@ -218,16 +193,6 @@
       "path": "samples_20.json",
       "bytes": 31624,
       "sha256": "d159cf6d1550445a6d0582e94affee7848b9c495607695f60cfbb7cc76799d0a"
-    },
-    {
-      "path": "scripts/__pycache__/search_dataset.cpython-312.pyc",
-      "bytes": 2109,
-      "sha256": "6704a5132554c6a066df6d5e13143a9850391ec78b546721010e39f2b9db1cc6"
-    },
-    {
-      "path": "scripts/__pycache__/validate_submission.cpython-312.pyc",
-      "bytes": 3467,
-      "sha256": "ed7f2999577fb0c9c411afcaa139105ce4e8be36c2f6a6a127adf075af4a1c1f"
     },
     {
       "path": "scripts/run_v4_v5_pipeline.ps1",
